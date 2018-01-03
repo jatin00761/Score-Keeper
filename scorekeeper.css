@@ -1,0 +1,13 @@
+.winner {
+	color:green;
+}
+body
+{
+	margin : auto;
+	font-family: 'Rubik', sans-serif;
+}
+#input
+{
+	width : 30%;
+	margin : 5px;
+}
